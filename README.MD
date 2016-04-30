@@ -8,6 +8,7 @@ Good Luck !
 
 ## Example Conversation
 
+```
 1.
 POST  HTTP/1.1
 Host: localhost:8888
@@ -62,3 +63,4 @@ Postman-Token: 6e3c2039-2243-1767-a19c-08e56f65bfa0
 Response:
 
 {"msg": "You want to book between 22/4 to 3/5. Check these stays at https://www.stayzilla.com/search?dist=20km&area=Delhi&suggest=Delhi&checkInDate=22-04-2016&lat=28.65195&checkOutDate=03-05-2016&lng=77.23149&type=szcity"}
+```
