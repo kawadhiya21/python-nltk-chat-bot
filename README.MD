@@ -1,6 +1,6 @@
 ## NLP based chatbot
 
-I work at Stayzilla, a website where you can book great stays. Was just looking around to check if I can build an automated chat bot which can redirect to a particular search page. The code looks dicey but works for basic chat. NLP is used without training. I have used basic tagging and chunking mechanism to extract data. This bot amy not help anyone but can serve as a basic tutorial. Try chatting with the bot :)
+I work at Stayzilla, a website where you can book great stays. Was just looking around to check if I can build an automated chat bot which can redirect to a particular search page. The code looks dicey but works for basic chat. NLP is used without training. I have used basic tagging and chunking mechanism to extract data. This bot may not help anyone but can serve as a basic tutorial. Try chatting with the bot :)
 
 Packages used : tornado, torndsession, nltk, requests, urllib
 
